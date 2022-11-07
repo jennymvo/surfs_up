@@ -1,3 +1,8 @@
+#Module activities
+app.py
+weather_app.py
+climate_analysis.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
