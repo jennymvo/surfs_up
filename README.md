@@ -4,6 +4,8 @@
 The purpose of this analysis was to use a SQLite database of weather data from Oahu for analyzing the tempertures of June and December. 
 
 ## Results
+![June Summary Statistics](https://github.com/jennymvo/surfs_up/blob/main/images/summaryJune.png?raw=true)
+![December Summary Statistics](https://github.com/jennymvo/surfs_up/blob/main/images/summaryDec.png?raw=true)
 - June had slightly less variation of temperature according to the lower standard deviation
 - June had a higher average temperature 
 - June's temperatures were overall hotter compared to December from the values of the quartiles.
